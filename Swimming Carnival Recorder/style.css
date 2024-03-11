@@ -1,0 +1,74 @@
+.head1 {
+    font-size: 68px;
+}
+.mainbut {
+    font-size: 28px;
+    background-color: #008CBA;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.mainbut:hover {
+    background-color: darkblue;
+}
+.textbox {
+    width: 10%;
+}
+.longbut {
+    font-size: 28px;
+    background-color: #008CBA;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 500px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.longbut:hover {
+    background-color: darkblue;
+}
+.display {
+    border: 1px solid black;
+    width: 80%;
+    height: 5%;
+    padding-bottom: 10px;
+    background-color: lightblue;
+    text-align: left;
+    color: black;
+}
+th, td, tr {
+    border: 1px solid black;
+}
+.bluetable {
+    background-color: blueviolet;
+    color: white;
+}
+table {
+    border-collapse: collapse;
+}
+.housetable {
+    width: 80%;
+    height: 5%;
+    padding-bottom: 10px;
+    text-align: left;
+    color: black;
+}
+.Doherty {
+    background-color: orange;
+    color: white;
+}
+.Blackburn {
+    background-color: green;
+    color: white;
+}
+.Bragg {
+    background-color: purple;
+    color: white;
+}
+.Burnet {
+    background-color: blue;
+    color: white;
+}
